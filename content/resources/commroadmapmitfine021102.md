@@ -4,6 +4,8 @@ description: Lecture presentation on roadmapping the communications value chain.
 file: /courses/15-795-seminar-in-operations-management-fall-2002/bb86092c0040b2aa2a8ca158d523715e_commroadmapmitfine021102.pdf
 file_size: 716376
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

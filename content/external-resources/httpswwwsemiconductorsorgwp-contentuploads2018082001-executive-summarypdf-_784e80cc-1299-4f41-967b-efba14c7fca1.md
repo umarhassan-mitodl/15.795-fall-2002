@@ -2,6 +2,8 @@
 content_type: external-resource
 external_url: https://www.semiconductors.org/wp-content/uploads/2018/08/2001-Executive-Summary.pdf
 has_external_license_warning: true
+hide_download: true
+hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: valid
 title: "https://www.semiconductors.org/wp-content/uploads/2018/08/2001-Executive-Summary.pdf\
