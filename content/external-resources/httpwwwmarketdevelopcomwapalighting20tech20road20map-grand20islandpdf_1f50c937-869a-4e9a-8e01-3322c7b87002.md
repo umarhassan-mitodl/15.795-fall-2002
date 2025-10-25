@@ -2,8 +2,6 @@
 content_type: external-resource
 external_url: https://ledsgp.org/resource/vision-2020-lighting-technology-roadmap/?loclang=en_gb
 has_external_license_warning: true
-hide_download: true
-hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: valid
 title: http://www.marketdevelop.com/wapa/Lighting%20Tech%20Road%20Map-Grand%20Island.pdf
